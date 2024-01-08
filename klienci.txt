@@ -1,0 +1,15 @@
+679483 Jan Kowalski  Samochod: Audi, A8 o rejestracji: WN30942
+679483 Adam Nowak  Samochod: Toyota, Corolla o rejestracji: WX34231
+679520 Jan Kowalski  Samochod: Audi, A8 o rejestracji: WN30942
+679520 Adam Nowak  Samochod: Toyota, Corolla o rejestracji: WX34231
+679849 Jan Kowalski  Samochod: Audi, A8 o rejestracji: WN30942
+679849 Adam Nowak  Samochod: Toyota, Corolla o rejestracji: WX34231
+686903 Adam Kowalski  Samochod: punto, Fiat o rejestracji: ZKO45S3
+687118 Jan Kowalski  Samochod: dfas, BMW o rejestracji: DSA123213
+687193 Adam Nowak  Samochod: panda, Fiat o rejestracji: Wx2341
+687336 Artur LeHoang  Samochod: Octavia, Skoda o rejestracji: WE32532
+687537 Kuba Bielski  Samochod: Octavia, Skoda o rejestracji: BI2341
+687563 Karol Chmielewski  Samochod: 126p, Fiat o rejestracji: GD345SD
+688999 Tomasz Fornal  Samochod: R8, Audi o rejestracji: SK653DA
+690973 Aleksander Sliwka  Samochod: das, BMW o rejestracji: SS345AG
+692077 Andrzej Wrona  Samochod: Audi, A8 o rejestracji: WN84932
