@@ -64,4 +64,9 @@ public:
 			return raport();
 		}
 	}
+	void wyswietl_zgloszenia()
+	{
+		Baza.wyswietlaj_zgloszenia();
+		return;
+	}
 };

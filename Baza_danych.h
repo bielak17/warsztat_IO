@@ -147,5 +147,34 @@ public:
 		plik.close();
 		return;
 	};
+	void wyswietlaj_zgloszenia()
+	{
+		ifstream plik;
+		plik.open(baza_zgloszen);
+		string linia;
+		int pom=1;
+		do
+		{
+			cout << "\nLista zgloszen (20 na strone):" << endl;
+				for (int i = 0; i < 20; i++)
+				{
+					getline(plik,linia);
+					cout << linia << endl;
+					if (plik.eof())
+						break;
+				}
+				if (pom)
+				{
+					cout << "Osiagnieto koniec pliku!" << endl;
+					plik.close();
+					return;
+				}
+				cout << "Oto 20 zgloszen. Nacisnij 0 aby przerwac lub cokolwiek innego aby wyswietlic kolejne 20." << endl;
+				cin >> pom;
+
+		} while (pom && !plik.eof());
+		plik.close();
+		return;
+	};
 };
 

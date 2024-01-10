@@ -89,4 +89,9 @@ public:
 		cout << "Faktura zostala zapisana do pliku " << plik << " dziekuje za skorzystanie." << endl;
 		return;
 	}
+	void wyswietl_zgloszenia()
+	{
+		k.wyswietl_zgloszenia();
+		return;
+	};
 };
