@@ -28,7 +28,7 @@ void ClientCode(interfejs i)
 	case 4:
 		i.wyswietl_zgloszenia();
 		break;
-	case5:
+	case 5:
 		return;
 	}
 
